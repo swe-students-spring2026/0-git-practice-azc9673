@@ -1,6 +1,5 @@
 # Interesting Read
-[No Silver Bullet — Essence and Accidents of Software Engineering by Fred Brooks]  
-https://www.cs.unc.edu/~brooks/NoSilverBullet.html
+[No Silver Bullet — Essence and Accidents of Software Engineering by Fred Brooks](https://www.cs.unc.edu/~brooks/NoSilverBullet.html)
 
 ---
 
