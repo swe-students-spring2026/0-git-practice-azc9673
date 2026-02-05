@@ -13,5 +13,5 @@ Thus, great software extends past just writing code faster: it’s about managin
 
 ---
 
-## Comment:
+## Comment
 (*Sheldon Xie cx2275*) In this age of merging LLMs and Agentic coding, Brooks, almost prophetically, warns us that **AI does not dissolve the essence of software**. The hardist parts - dealing with conflicting requirements, modeling complecated domains and problems, handling ambiguity, etc. - are still human's works and requires the proper engineering skills. At the end of the day, AI is not the *silver bullet* but tool that can help us express ideas more efficiently, but it cannot replace the hard work of thinking — understanding, specifying, and designing software that reflects complex human needs.
